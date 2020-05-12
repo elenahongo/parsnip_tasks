@@ -1,0 +1,16 @@
+
+.task-lists {
+  display: flex;
+  width: 100%;
+}
+
+.task-list {
+  flex-grow: 1;
+  width: 1;
+}
+
+.taskheader {
+  color: rgb(107, 0, 203);
+  font-weight: 800;
+  margin-top: 5%;
+}
