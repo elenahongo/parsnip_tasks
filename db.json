@@ -10,13 +10,13 @@
       "id": 2,
       "title": "Peace on Earth",
       "description": "No big deal.",
-      "status": "Completed"
+      "status": "In Progress"
     },
     {
       "id": 3,
       "title": "Create Facebook for dogs",
       "description": "The hottest new social network",
-      "status": "Unstarted"
+      "status": "In Progress"
     }
   ]
 }
